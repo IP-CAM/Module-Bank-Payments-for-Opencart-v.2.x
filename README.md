@@ -1,5 +1,5 @@
 # Платежный модуль для Opencart 2.0 - 2.2
-
+Payment module for the gateway for receiving module payments for Opencart v.2.x
 Модуль позволяет принимать платежи банковской картой через Модульбанк.
 
 [Скачать модуль](https://github.com/modulbank-pay/modulbank-opencart2.0/releases/latest/download/modulbank_opencart2.0.ocmod.zip)
